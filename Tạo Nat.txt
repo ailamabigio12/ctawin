@@ -1,0 +1,7 @@
+Bước 1: Trong máy chấm công tạo gateway
+Bước 2: Đăng nhập vào wifi bằng đường dẫn 192.168.1.1 (tùy modem)
+Bước 3: vào Port... Nhập thông tin ip của máy chấm công + port.
+Bước 4: Vào No-ip.com. Đăng nhập ID: chamcongcta. Mật khẩu: ctahtkt1. Tạo host mới cho khách hàng.
+Bước 5: Sau khi tạo thì vào ping.eu để check xem đã thông chưa
+
+Mật khẩu modem cta: d295440
